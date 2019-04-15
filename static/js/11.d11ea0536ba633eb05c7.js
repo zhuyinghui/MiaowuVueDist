@@ -1,0 +1,2 @@
+webpackJsonp([11],{"0PT3":function(e,n){},LSXy:function(e,n,t){"use strict";Object.defineProperty(n,"__esModule",{value:!0});var a={name:"baike",components:{headnav:t("vUA0").a}},i={render:function(){var e=this.$createElement,n=this._self._c||e;return n("div",[n("headnav"),this._v(" "),n("div",[this._v("猫百科内容")])],1)},staticRenderFns:[]};var r=t("VU/8")(a,i,!1,function(e){t("0PT3")},"data-v-bc792b52",null);n.default=r.exports}});
+//# sourceMappingURL=11.d11ea0536ba633eb05c7.js.map

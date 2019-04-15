@@ -1,0 +1,2 @@
+webpackJsonp([12],{"5tK1":function(e,t){},RoIK:function(e,t,n){"use strict";Object.defineProperty(t,"__esModule",{value:!0});var r={render:function(){var e=this.$createElement;return(this._self._c||e)("div",[this._v("猫粮")])},staticRenderFns:[]};var a=n("VU/8")({name:"food"},r,!1,function(e){n("5tK1")},"data-v-64e62966",null);t.default=a.exports}});
+//# sourceMappingURL=12.cc4706ea63f647de55de.js.map

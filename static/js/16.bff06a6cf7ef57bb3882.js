@@ -1,0 +1,2 @@
+webpackJsonp([16],{mzJM:function(e,t,n){"use strict";Object.defineProperty(t,"__esModule",{value:!0});var r={render:function(){var e=this.$createElement;return(this._self._c||e)("div",[this._v("猫服装")])},staticRenderFns:[]};var a=n("VU/8")({name:"clothes"},r,!1,function(e){n("r5Am")},"data-v-1fb3a095",null);t.default=a.exports},r5Am:function(e,t){}});
+//# sourceMappingURL=16.bff06a6cf7ef57bb3882.js.map

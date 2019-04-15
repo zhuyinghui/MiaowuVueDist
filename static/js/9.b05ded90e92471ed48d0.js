@@ -1,0 +1,2 @@
+webpackJsonp([9],{IHrE:function(e,t,n){"use strict";Object.defineProperty(t,"__esModule",{value:!0});var a={name:"adopt",components:{headnav:n("vUA0").a},data:function(){return{}},methods:{}},r={render:function(){var e=this.$createElement,t=this._self._c||e;return t("div",[t("headnav"),this._v(" "),t("div",[this._v("领养猫内容")])],1)},staticRenderFns:[]};var o=n("VU/8")(a,r,!1,function(e){n("of4z")},"data-v-f7292aa4",null);t.default=o.exports},of4z:function(e,t){}});
+//# sourceMappingURL=9.b05ded90e92471ed48d0.js.map
